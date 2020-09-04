@@ -2,6 +2,12 @@
 
 ## 1、安装
 
+```text
+composer: composer require huangdingbo/yii2-uploader
+
+git: https://github.com/huangdingbo/yii2-uploader
+```
+
 ## 2、使用
 
 #### 1、创建数据表
